@@ -1,5 +1,6 @@
 # NumberInterpretation
 
+## Description
 A Java console application that accepts phone numbers as input and
 interpretes speech input ambiguities.
 
